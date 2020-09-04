@@ -5,6 +5,10 @@
 ![bugsmebruh](bugsmebruh.jpg)
 Our Fractals
 
+[x] mandelbrot set
+[] julia set
+[] koch triangle
+[] ...
 
 ---
 
