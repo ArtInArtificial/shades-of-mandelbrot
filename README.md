@@ -1,14 +1,16 @@
 # Our Fractals
 
-"Universe is recursive."  
+> "Universe is recursive."  
 
 ![bugsmebruh](bugsmebruh.jpg)
 Our Fractals
 
-[x] mandelbrot set
-[] julia set
-[] koch triangle
-[] ...
+## Our list
+
+- [x] mandelbrot set
+- [] julia set
+- [] koch triangle
+- [] ...
 
 ---
 
