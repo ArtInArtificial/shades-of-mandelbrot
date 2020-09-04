@@ -1,18 +1,28 @@
-# fractals
+# Our Fractals
 
----
+"Universe is recursive."  
 
- visual beauty of algorithms
-
----
-
-
-:art:
-
-1 .
-2 . 
-3 . mandelbrot set
-4 . julia set
+![bugsmebruh](bugsmebruh.jpg)
+Our Fractals
 
 
 ---
+
+Experimenting with mandelbrot.  
+- Try scaling iterations.
+- animating (through iterations)
+- animating (through zooming)
+- different shades (cmaps)
+
+Next Julia.  
+#TODO  
+
+#TODO  
+Upload Koch
+
+
+---
+
+> Learning from :
+<https://makeyourownmandelbrot.blogspot.com/>  
+Buy the book , support author.
