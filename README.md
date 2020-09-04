@@ -8,9 +8,9 @@ Our Fractals
 ## Our list
 
 - [x] mandelbrot set
-- [] julia set
-- [] koch triangle
-- [] ...
+- [ ] julia set
+- [ ] koch triangle
+- [ ] ...
 
 ---
 
